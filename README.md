@@ -9,7 +9,7 @@
 
 - 개발 환경: Visual Studio  
 - 개발 언어: C++
-- 활용 도구: OpenGL 라이브러리
+- 활용 도구: OpenGL 라이브러리 
 
 <br>
 
